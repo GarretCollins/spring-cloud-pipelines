@@ -4,7 +4,7 @@ export ROOT_FOLDER
 ROOT_FOLDER="$( pwd )"
 export REPO_RESOURCE=repo
 export TOOLS_RESOURCE=tools
-export VERSION_RESOURCE=version
+export VERSION_RESOURCE="None"
 export OUTPUT_RESOURCE=out
 
 echo "Root folder is [${ROOT_FOLDER}]"
