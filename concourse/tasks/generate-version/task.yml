@@ -17,5 +17,5 @@ run:
   path: tools/concourse/tasks/generate-version/task.sh
 
 params:
-  GIT_EMAIL:
-  GIT_NAME:
+  GIT_EMAIL: collins.garret@gmail.com
+  GIT_NAME: Garret Collins
